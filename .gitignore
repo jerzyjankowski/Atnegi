@@ -15,6 +15,7 @@ public/bundle.min.js
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
+.idea
 .DS_Store
 *.suo
 *.ntvs*
